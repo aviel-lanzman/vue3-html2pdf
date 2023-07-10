@@ -1,5 +1,5 @@
 {
-  "name": "vue3-html2pdf",
+  "name": "vue3-html2pdf-test",
   "version": "1.1.2",
   "description": "A vue3 wrapper that use html2pdf for convert html to pdf",
   "main": "src/index.js",
